@@ -1,3 +1,5 @@
+<p align="center"> <a href="./README.md">🇧🇷 Portuguese</a> | <a href="./README.EN.md">🇺🇸 English</a> </p>
+
 # 💼 Auto Text Effect
 
 Uma aplicação desenvolvida com **HTML5, CSS3 e JavaScript** que exibe um efeito de digitação automática, alternando entre diferentes profissões.
