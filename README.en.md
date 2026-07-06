@@ -1,4 +1,4 @@
-<p align="center"> <a href="./README.md">🇧🇷 Portuguese</a> | <a href="./README.EN.md">🇺🇸 English</a> </p>
+<p align="center"> <a href="./README.md">🇧🇷 Portuguese</a> | <a href="./README.en.md">🇺🇸 English</a> </p>
 
 # 💼 Auto Text Effect
 
